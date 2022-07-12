@@ -5,6 +5,31 @@
 .wordle-ft {
   font-family: "Wordle", Arial, sans-serif;
 }
+.linha {
+  size: 8px;
+  width: 100%;
+  color: #808080;
+}
+.botao_L {
+  background-position: left;
+  width: 30px;
+  border: none;
+  outline: none;
+  background-color: white;
+  color: white;
+  float: left;
+  margin-right: 10px;
+}
+.botao_R {
+  background-position: right;
+  width: 30px;
+  border: none;
+  outline: none;
+  background-color: white;
+  color: white;
+  float: right;
+  margin-left: 10px;
+}
 .font0 {
   margin-top: 30px;
   margin-bottom: 30px;
